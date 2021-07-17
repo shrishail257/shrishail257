@@ -1,6 +1,11 @@
-a=10
-b=25
-if a>15:
-  print("it is lesser than 15")
-elif b>20:
-  print("yes it is greater then 20")
+a=int(input("enter a number")
+b=int(input("enter a nother number")
+if a>b:
+      print(a," is greater than ", b)
+elif a<b:
+        print(a," is less than ",b)
+else:
+      print(a,"is equal to ", b)
+      
+      
+      
